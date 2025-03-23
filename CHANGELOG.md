@@ -1,3 +1,7 @@
+## 0.0.14
+
+- Add preview flag to package.json
+
 ## 0.0.13
 
 - Update extension name to "Auto Curly JSX"
