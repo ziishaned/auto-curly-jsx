@@ -1,6 +1,10 @@
+## 0.0.13
+
+- Update extension name to "Auto Curly JSX"
+
 ## 0.0.12
 
-- Update extension name
+- Update extension name to "AutoCurly JSX"
 
 ## 0.0.11
 
