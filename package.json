@@ -1,8 +1,8 @@
 {
-  "name": "jsx-autocurly",
-  "displayName": "JSX AutoCurly",
+  "name": "autocurly-jsx",
+  "displayName": "AutoCurly JSX",
   "description": "Automatically adds curly braces to JSX prop values.",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "publisher": "ziishaned",
   "license": "MIT",
   "icon": "assets/logo.png",
@@ -15,14 +15,14 @@
     "email": "ziishaned@gmail.com",
     "url": "https://github.com/ziishaned"
   },
-  "homepage": "https://github.com/ziishaned/jsx-autocurly",
+  "homepage": "https://github.com/ziishaned/autocurly-jsx",
   "bugs": {
     "email": "ziishaned@gmail.com",
-    "url": "https://github.com/ziishaned/jsx-autocurly/issues"
+    "url": "https://github.com/ziishaned/autocurly-jsx/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ziishaned/jsx-autocurly"
+    "url": "https://github.com/ziishaned/autocurly-jsx"
   },
   "keywords": [
     "jsx",
