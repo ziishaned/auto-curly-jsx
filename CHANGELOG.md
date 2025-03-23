@@ -1,3 +1,7 @@
+## 0.0.15
+
+- Update readme
+
 ## 0.0.14
 
 - Add preview flag to package.json

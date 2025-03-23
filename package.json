@@ -2,7 +2,7 @@
   "name": "auto-curly-jsx",
   "displayName": "Auto Curly JSX",
   "description": "Automatically adds curly braces to JSX prop values.",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "publisher": "ziishaned",
   "license": "MIT",
   "icon": "assets/logo.png",

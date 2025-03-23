@@ -1,4 +1,4 @@
-# AutoCurly JSX for VS Code
+# Auto Curly JSX
 
 <p align="center">
   <img src="assets/logo.png" alt="Logo" width="227px" height="178px">
@@ -38,7 +38,7 @@ This extension automatically adds curly braces `{}` around JSX and TSX prop valu
 
 1.  Open Visual Studio Code.
 2.  Go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
-3.  Search for "AutoCurly JSX".
+3.  Search for "Auto Curly JSX".
 4.  Click "Install".
 5.  Reload VS Code.
 
